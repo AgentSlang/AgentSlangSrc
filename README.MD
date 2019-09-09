@@ -132,15 +132,15 @@
 	6.Configure Gstreamer bin path in “Environment Variables”.
 	{Path}\gstreamer\1.0\x86_64\bin
 	7.In order to use Google ASR it is necessary to follow these steps.
-	•	Install Google Chrome Browser.
-	•	Open Chrome, go to its Settings, then Advanced → HTTPS/SSL → Manage Certificates, go to the "Authorities" tab and import “cert.crt” from the following folder.
+	•Install Google Chrome Browser.
+	•Open Chrome, go to its Settings, then Advanced → HTTPS/SSL → Manage Certificates, go to the "Authorities" tab and import “cert.crt” from the following folder.
 	{Path}/agentslang/config/
-	•	Once AgentSlang is running with a configuration file that makes use of this component, the URL “https://localhost:8149/” should be opened in Chrome (this should happen automatically) and permission to use the microphone should be granted, if Chrome asks.
-	•	Download “ChromeDriver” from the following URL. You should download a version of ChromeDriver that corresponds to your Google chrome browser version; otherwise it won’t work.
+	•Once AgentSlang is running with a configuration file that makes use of this component, the URL “https://localhost:8149/” should be opened in Chrome (this should happen automatically) and permission to use the microphone should be granted, if Chrome asks.
+	•Download “ChromeDriver” from the following URL. You should download a version of ChromeDriver that corresponds to your Google chrome browser version; otherwise it won’t work.
 	http://chromedriver.chromium.org/downloads
-	•	Copy “chromedriver.exe” to the following folder.
+	•Copy “chromedriver.exe” to the following folder.
 	{Path}/agentslang/bin
-	•	Set “chromedriver.exe” path in “Environment Variables”.
+	•Set “chromedriver.exe” path in “Environment Variables”.
 	{Path}/agentslang/bin
 	8.Run MARC toolkit and launch “Real time Animation”.
 	9.Go to the following folder.
