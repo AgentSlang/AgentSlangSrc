@@ -1,40 +1,40 @@
 # AgentSlang Source code.
- * This files are part of AgentSlang Project (http://agent.roboslang.org/).
+	This files are part of AgentSlang Project (http://agent.roboslang.org/).
 
- * AgentSlang is free software: you can redistribute it and/or modify
- * it under the terms of the GNU Lesser General Public License as published by
- * the Free Software Foundation, version 3 of the License and CECILL-B.
+	AgentSlang is free software: you can redistribute it and/or modify
+	it under the terms of the GNU Lesser General Public License as published by
+	the Free Software Foundation, version 3 of the License and CECILL-B.
  
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
- * GNU Lesser General Public License for more details.
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+	GNU Lesser General Public License for more details.
  
- * You should have received a copy of the GNU Lesser General Public License
- * along with this program. If not, see <http://www.gnu.org/licenses/>.
+	You should have received a copy of the GNU Lesser General Public License
+	along with this program. If not, see <http://www.gnu.org/licenses/>.
  *
- * The CECILL-B license file should be a part of this project. If not,
- * it could be obtained at  <http://www.cecill.info/>.
+	The CECILL-B license file should be a part of this project. If not,
+	it could be obtained at  <http://www.cecill.info/>.
  
- * The usage of this project makes mandatory the authors citation in
- * any scientific publication or technical reports. For websites or
- * research projects the AgentSlang website and logo needs to be linked
- * in a visible area. 
+	The usage of this project makes mandatory the authors citation in
+	any scientific publication or technical reports. For websites or
+	research projects the AgentSlang website and logo needs to be linked
+	in a visible area. 
  
 
 
 # Help
- * you can find Documents about Each component in Doucments Folder and index.html
+	you can find Documents about Each component in Doucments Folder and index.html
 
 # Installation
- * for running this component you need to install 
- * Java JDK 1.8 
- * Python 3
+	for running this component you need to install 
+	Java JDK 1.8 
+	Python 3
  
  
 # Linux installation
 	How to build “agentslang” on Ubuntu? 
-	1.	apt-get update & apt-get upgrade
+	1. apt-get update & apt-get upgrade
 
 	2. Install JDK8 using the following command. 
 	sudo apt-get install openjdk-8-jdk
